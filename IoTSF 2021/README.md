@@ -5,5 +5,7 @@ In this talk, we present a panorama of IoT cyber security regulations across the
 
 ## Information about the conference
 Location: Virtual
+
 Website: https://www.iotsfconference.com
+
 Date: 3-4 November 2021
