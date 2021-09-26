@@ -1,11 +1,4 @@
-# IoT cyber security regulations...
-...
-
-- A global perspective
-- Unexpected negative outcomes on developing countries
-- Our savior or a false prophet?
-- The S in IoT that stands for security (yep still missing)
-
+# IoT cyber security regulations: unexpected negative outcomes on developing countries
 
 Internet of Things (IoT) systems are known for their lack of cyber security. This creates unacceptable risks on our privacy, our safety and our society. With cyber security regulations now a reality, this issue is resolved. Or is it? This presentation is a call for a global IoT cyber security regulation.
 
